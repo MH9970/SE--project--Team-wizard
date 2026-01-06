@@ -34,7 +34,23 @@
                 </div>
             </div>
         </div>
-
+  </div>
+            <div class="welcome">
+                <div class="txt">
+                    <h1> Welcome to our <br> Disaster Management System</h1>
+                    <h1>SafeNet</h1>
+                </div>
+            
+                <div class="details">
+                    <!---for vertical line and text-->
+                    <div class="vrt1">
+                        <div class="vl"></div>
+                        <h1 class="txt1">100 Active Volunteer</h1>
+                    </div>
+                    <div class="vrt1">
+                        <div class="vl1"></div>
+                        <h1 class="txt2">10 Popular Foundation</h1>
+                    </div>
         <div id="largbar">
             <div class="txtcontainer">
               <h1>Grasp the opportunity to <br>serve the country. </h1>
@@ -57,23 +73,7 @@
                  <img src="home2.jpg" class="img12">
                  <img src="brown.jpg" class="img22">
                 
-            </div>
-            <div class="welcome">
-                <div class="txt">
-                    <h1> Welcome to our <br> Disaster Management System</h1>
-                    <h1>SafeNet</h1>
-                </div>
-            
-                <div class="details">
-                    <!---for vertical line and text-->
-                    <div class="vrt1">
-                        <div class="vl"></div>
-                        <h1 class="txt1">100 Active Volunteer</h1>
-                    </div>
-                    <div class="vrt1">
-                        <div class="vl1"></div>
-                        <h1 class="txt2">10 Popular Foundation</h1>
-                    </div>
+          
                     
                 </div>
             </div>
