@@ -9,7 +9,7 @@ Software Engineering
 - Mushfikur Rahman Tamim – 011221476
 - Safikul Islam Sunny – 011221076
 - Umme salma Habiba – 011222166
-- Sadia sultana Mariya – 011222176
+- Sadiya sultana Mariya – 011222176
 
 ## Project Description
 Software Engineering group project managed using GitHub.  
